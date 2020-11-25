@@ -1,0 +1,6 @@
+Referer: https://blog.scrapinghub.com/
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/2.4.1 (+https://scrapy.org)
+Accept-Encoding: gzip, deflate
+Cookie: __cfduid=dca34fd97bc673fc0f2ab75808a4995701605649561; __cfruid=8897d5a3d29f4b21ce7663a1148b0602ecd3b6f5-1605649561
