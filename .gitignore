@@ -1,0 +1,4 @@
+.scrapy
+*.csv
+*.log
+*.json
